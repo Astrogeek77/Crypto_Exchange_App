@@ -1,0 +1,10 @@
+.env
+coverage
+coverage.json
+typechain
+package-lock.json
+node_modules
+smart_contracts/node_modules
+
+cache
+artifacts
