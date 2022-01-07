@@ -5,3 +5,5 @@
 This is a code repository for the Web3.0 Blockchain Application Crypto
 
 Built Using Web 3.0 methodologies(Hardhat etc), Solidity and Metamask.
+
+this is my first project using etherium smart contracts and solidity language.
